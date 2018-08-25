@@ -46,3 +46,13 @@ Thumbs.db
 # SASS #
 ##########
 .sass-cache
+
+# Custom
+.DS_Store*
+ehthumbs.db
+Icon
+._*
+.idea
+/*.sql
+/*.tar.gz
+.DS_Store

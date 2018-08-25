@@ -1,0 +1,4 @@
+name = DrupalSquad Content
+description = A module for custom implementations.
+package = DrupalSquad
+core = 7.x

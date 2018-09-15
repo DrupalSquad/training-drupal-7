@@ -1,6 +1,8 @@
 Assets
 ------
 https://drive.google.com/open?id=1n_xB0TXlCNPSGbvW9YEn1_KPyuBvtwvs
+DB: http://dev-igor-d8.pantheonsite.io/sites/default/files/d7_db.sql.gz
+Files: http://dev-igor-d8.pantheonsite.io/sites/default/files/d7_files.sql.gz
 
 
 

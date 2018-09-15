@@ -2,8 +2,6 @@ Assets
 ------
 https://drive.google.com/open?id=1n_xB0TXlCNPSGbvW9YEn1_KPyuBvtwvs
 
-https://drive.google.com/drive/u/0/folders/1dbK4HeLbCm2hhfQ7TRue4czt1EA3BQK-
-
 
 
 CONTENTS OF THIS FILE
